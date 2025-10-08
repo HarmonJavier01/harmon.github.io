@@ -36,4 +36,4 @@ Here are some of the projects I've worked on:
 - [Instagram](https://www.instagram.com/alharmonyyy/)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true](https://github.com/HarmonJavier01))
