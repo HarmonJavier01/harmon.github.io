@@ -1,39 +1,22 @@
-# Hi, I'm Harmon Javier 👋
+<h1 align="center">Hi 👋, I'm Harmon Javier</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
 
-Welcome to my GitHub profile! I'm a passionate full-stack web developer and AI enthusiast.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harmonjavier01&label=Profile%20views&color=0e75b6&style=flat" alt="harmonjavier01" /> </p>
 
-## 👨‍💻 About Me
-- I specialize in full-stack web development and AI tools.
-- My tech stack includes **C++, PHP, C#, ASP.NET, SQL Server, Tailwind, ReactJS, Vite, Java, JavaScript, Dart, Flutter, SQLite,** and **PHPMyAdmin**.
-- I'm currently working on two exciting projects: **Rumble Words Educational** and **Async AI Tool - Image Generations**.
-- I’m always learning new technologies and improving my skills.
+- 🌱 I’m currently learning **Tailwind, Flutter**
 
-## 🛠️ Tech Stack
-- **Languages**: C++, PHP, C#, Java, JavaScript, Dart
-- **Frameworks**: ReactJS, ASP.NET, Tailwind, Flutter, Vite
-- **Databases**: SQL Server, SQLite, PHPMyAdmin
-- **Tools**: Supabase (API), Visual Studio Code, Git, Docker
+- 👨‍💻 All of my projects are available at [https://harmonjavier01.github.io/portfolio.v2/](https://harmonjavier01.github.io/portfolio.v2/)
 
-## 🌱 Currently Working On
-1. **Rumble Words Educational** (Using Dart, Flutter, and SQLite)  
-   - A project focused on interactive learning and educational tools for language development.
+- 💬 Ask me about **Mobile and Web**
 
-2. **Async AI Tool - Image Generations** (Frontend: Tailwind, Vite, ReactJS; Backend: TypeScript; API: Supabase)  
-   - An AI tool designed to generate and process images in real-time.
+- 📫 How to reach me **harmonjavier01@gmail.com**
 
-## 📂 Featured Projects
-Here are some of the projects I've worked on:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harmon-javier-689b832a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harmon-javier-689b832a4/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/harmony010900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/harmony010900" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/alharmonyyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alharmonyyy/" height="30" width="40" /></a>
+</p>
 
-- **[Rumble Words Educational](https://drive.google.com/file/d/1MWadWMeeQM4Amv0YlywX273SfdLyElrr/view?usp=drive_link)**: An educational project for language learning using Dart and Flutter.
-- **[Async AI Tool - Image Generations](https://asyncaitool.netlify.app)**: A tool that integrates AI image generation, powered by ReactJS, TypeScript, and Supabase.
-
-## 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/harmon-javier-689b832a4/)
-- [Email](mailto:Harmonjavier01@gmail.com)
-
-## 🔗 Social Media:
-- [Facebook](https://www.facebook.com/harmony010900)
-- [Instagram](https://www.instagram.com/alharmonyyy/)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarmonJavier01&show_icons=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
